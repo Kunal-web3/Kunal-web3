@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kunal-web3&style=for-the-badge&color=84ADFF" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=Kunal-web3)
 
 </div>
 
@@ -30,7 +30,7 @@ I'm a passionate technology enthusiast focused on **MERN Stack Development**. I 
 - 👯 Looking to collaborate on **innovative projects**
 - 💬 Ask me about **Java, Python, JavaScript, C++, and MERN Stack**
 - 📫 Reach me at **[kj115014@gmail.com](mailto:kj115014@gmail.com)**
-- 🌐 Explore my projects and connect with me on GitHub and LinkedIn.
+- 🌐 Explore my projects on [GitHub](https://github.com/Kunal-web3)
 
 <br clear="right">
 
